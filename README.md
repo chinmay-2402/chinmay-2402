@@ -20,7 +20,7 @@
   ### Description:
 **CloudScape** is a secure and scalable 3-tier web application infrastructure deployed on AWS. This architecture utilizes Amazon VPC for network segmentation, EC2 for the application layer, RDS for the database layer, and CloudWatch for monitoring and alerting.
 
- **[s3snapstore](https://github.com/chinmay-2402/image-upload-project.git)**  
+- **[s3snapstore](https://github.com/chinmay-2402/image-upload-project.git)**  
   ### Description:
 S3SnapStore is a cloud-based app that lets users upload images, storing them in Amazon S3 with metadata saved in an RDS MySQL database. Hosted on an EC2 instance, it uses IAM roles for secure access and a custom VPC for networking, showcasing core AWS services for scalable and secure image storage.
 

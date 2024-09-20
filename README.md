@@ -22,8 +22,7 @@
 
  **[s3snapstore](https://github.com/chinmay-2402/image-upload-project.git)**  
   ### Description:
-**S3SnapStore is a cloud-based app that lets users upload images, storing them in Amazon S3 with metadata saved in an RDS MySQL database. Hosted on an EC2 instance, it uses IAM roles for secure access and a custom VPC for networking, showcasing core AWS services for scalable and secure image storage.
----
+S3SnapStore is a cloud-based app that lets users upload images, storing them in Amazon S3 with metadata saved in an RDS MySQL database. Hosted on an EC2 instance, it uses IAM roles for secure access and a custom VPC for networking, showcasing core AWS services for scalable and secure image storage.
 
 ### 🚀 Cloud & DevOps Journey
 I’m on a journey to master cloud computing and DevOps methodologies, focusing on:

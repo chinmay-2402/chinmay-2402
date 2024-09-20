@@ -5,28 +5,20 @@
 - 🚀 Passionate about Cloud Computing, Automation, and CI/CD.
 - 🎯 Building hands-on projects with **AWS**, **Terraform**, **Docker**, **Kubernetes**, and more.
 - 💬 Ask me about AWS services, DevOps practices, or cloud infrastructure automation!
-- 📫 How to reach me: [Email me](mailto:your-email@example.com)
+- 📫 How to reach me: [Email me](chavanchinmay2424@gmail.com)
 
 ### 🛠️ Skills
-- **Cloud Platforms**: AWS (EC2, S3, RDS, Lambda, etc.)
-- **DevOps Tools**: Terraform, Docker, Kubernetes, Jenkins, Ansible, Git, GitHub Actions
-- **CI/CD Pipelines**: Jenkins, GitHub Actions, AWS CodePipeline
-- **Scripting Languages**: Bash, Python
+- **Cloud Platforms**: AWS (EC2, S3, RDS, VPC, IAM, Lambda,)
+- **DevOps Tools**: Terraform, Docker, Kubernetes, Jenkins, Ansible, Git, GitHub Actions, EKS, ECS(ECR)
+- **CI/CD Pipelines**: Jenkins, GitHub Actions
+- **Scripting Languages**: Bash, Python,
 - **Monitoring & Logging**: Prometheus, Grafana, CloudWatch
 
 ### 📂 Projects
 
-- **[AWS Infrastructure with Terraform](https://github.com/chinmay/aws-infrastructure-terraform)**  
-  Provisioned and automated a scalable web application infrastructure using AWS services (EC2, RDS, VPC) and managed with Terraform.
-
-- **[CI/CD Pipeline with Jenkins and Docker](https://github.com/chinmay/ci-cd-jenkins-docker)**  
-  Built a CI/CD pipeline using Jenkins, Docker, and GitHub Actions to automate deployment processes in a containerized environment.
-
-- **[Kubernetes Cluster Setup on AWS](https://github.com/chinmay/kubernetes-aws)**  
-  Deployed a Kubernetes cluster on AWS using EKS and Helm to manage containerized applications at scale.
-
-### 📊 GitHub Stats
-![Chinmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinmay&show_icons=true&theme=radical)
+- **[CloudScape 3-Tier Architecture](https://github.com/chinmay-2402/Three-tier.git)**  
+  ### Description:
+**CloudScape** is a secure and scalable 3-tier web application infrastructure deployed on AWS. This architecture utilizes Amazon VPC for network segmentation, EC2 for the application layer, RDS for the database layer, and CloudWatch for monitoring and alerting.
 
 ---
 
@@ -38,6 +30,6 @@ I’m on a journey to master cloud computing and DevOps methodologies, focusing 
 - Continuous Integration/Continuous Delivery (CI/CD)
 
 ### 🌟 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Portfolio](https://yourportfolio.com)
+- [LinkedIn](linkedin.com/in/chinmay-chavan-134305312)
+
 

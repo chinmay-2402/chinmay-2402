@@ -24,6 +24,10 @@
   ### Description:
 S3SnapStore is a cloud-based app that lets users upload images, storing them in Amazon S3 with metadata saved in an RDS MySQL database. Hosted on an EC2 instance, it uses IAM roles for secure access and a custom VPC for networking, showcasing core AWS services for scalable and secure image storage.
 
+- **[Register app](https://github.com/chinmay-2402/register-app.git)**  
+  ### Description:
+This project is a Java-based web application that serves an index.jsp page using Apache Tomcat. It is containerized using Docker and deployed on Amazon ECS for scalable and resilient cloud infrastructure. The project utilizes Jenkins for a CI/CD pipeline, automating the build, test, Docker image creation, and deployment process to ECS. It integrates modern DevOps practices with cloud-native deployment, ensuring efficient and continuous delivery of the application.
+
 ### 🚀 Cloud & DevOps Journey
 I’m on a journey to master cloud computing and DevOps methodologies, focusing on:
 - Infrastructure as Code (IaC)

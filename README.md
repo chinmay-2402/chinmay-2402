@@ -28,6 +28,12 @@ S3SnapStore is a cloud-based app that lets users upload images, storing them in 
   ### Description:
 This project is a Java-based web application that serves an index.jsp page using Apache Tomcat. It is containerized using Docker and deployed on Amazon ECS for scalable and resilient cloud infrastructure. The project utilizes Jenkins for a CI/CD pipeline, automating the build, test, Docker image creation, and deployment process to ECS. It integrates modern DevOps practices with cloud-native deployment, ensuring efficient and continuous delivery of the application.
 
+ **[3-Tier Architecture using terraform ](https://github.com/chinmay-2402/3--Tier-Architecture-using-terraform.git)**  
+  ### Description:
+This project sets up a 3-tier architecture using Terraform. The architecture consists of a presentation layer (front-end), an application layer (back-end), and a database layer. This approach modularizes the setup for easy deployment and scaling.
+
+
+
 ### 🚀 Cloud & DevOps Journey
 I’m on a journey to master cloud computing and DevOps methodologies, focusing on:
 - Infrastructure as Code (IaC)
